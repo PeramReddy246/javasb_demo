@@ -13,7 +13,7 @@ public class DemoApplication {
 	}
 	@GetMapping("/message")
 	public String message(){
-		return "Welcome raja";
+		return "Welcome";
 	}
 
 }
